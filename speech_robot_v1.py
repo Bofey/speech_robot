@@ -1,6 +1,6 @@
 # -*-utf-8-*-
-#author:bowen
-#dev version: V0.1
+#author:Bowen
+#dev version: V1.0
 import requests,json
 from bs4 import BeautifulSoup as bs
 import re,keyboard,os  
